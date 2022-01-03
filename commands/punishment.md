@@ -18,9 +18,7 @@
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FKoDGXiVQbu6dX61ObRnJ%2Fpunishment-view.gif?alt=media&token=7f7b9f62-9ee2-44fe-a6f4-2a219ea73b71" %}
-
-
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FaVB3vzcnXXEm1rWIU8HH%2Ftimeout-duration-new.gif?alt=media&token=10414216-b8a2-4c32-b726-d9fa01e4994b" %}
 {% endtab %}
 {% endtabs %}
 
