@@ -24,9 +24,9 @@
 
 
 
-| Commands                                   | Explanation                                                                                                                                             |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /punishment set-timeout-duration duration: | Configurate how long of a duration a timeout should last. After entering a number value, run the command and you will receive an option to choose unit. |
+| Commands                                   | Explanation                                                                                                                            |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| /punishment set-timeout-duration duration: | Choose how long a timeout should last. When you enter your number, press TAB key in order to choose a time unit. Then run the command. |
 
 {% tabs %}
 {% tab title="Commands demonstration" %}
