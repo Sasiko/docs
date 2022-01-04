@@ -42,8 +42,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [setup.md](phish-grabber/setup.md)
 {% endcontent-ref %}
 
-{% content-ref url="scanner-types/extended-antifishing.md" %}
-[extended-antifishing.md](scanner-types/extended-antifishing.md)
+{% content-ref url="scanner-types/extended-anti-phishing.md" %}
+[extended-anti-phishing.md](scanner-types/extended-anti-phishing.md)
 {% endcontent-ref %}
 
 {% content-ref url="scanner-types/content-scan.md" %}

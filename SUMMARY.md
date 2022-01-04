@@ -5,8 +5,8 @@
 
 ## Scanner Types
 
-* [Primary Antifishing](scanner-types/primary-antifishing.md)
-* [Extended Antifishing](scanner-types/extended-antifishing.md)
+* [Primary Anti-phishing](scanner-types/primary-anti-phishing.md)
+* [Extended Anti-phishing](scanner-types/extended-anti-phishing.md)
 * [Content Scan](scanner-types/content-scan.md)
 * [Youtube](scanner-types/youtube.md)
 
