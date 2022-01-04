@@ -2,7 +2,7 @@
 
 | Commands                      | Explanation                                                                                                     |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| /blacklist add-domain domain: | By adding a blacklisted domain, content scan will be able to detect that domain and sanction users accordingly. |
+| /blacklist add-domain domain: | By adding aa blacklisted domain, content scan will be able to detect that domain and sanction users accordingly. |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
