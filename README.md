@@ -8,9 +8,9 @@ description: >-
 
 ## What does the bot do?
 
-Simple to setup using slash commands. Bot uses 3 different phishing/malware APIs that maintain large databases of phishing domains, which would detect links such as "Free nitro, free steam game/item, free epic games" and much more.
+Simple to setup using slash commands. The bot uses 3 different phishing/malware APIs that maintain large databases of domains, which would detect links such as "Free nitro, free steam game/item, free epic games" and much more.
 
-Server owners are also able to block any kind of websites using contentscan comand (custom flagging). By configurating your blacklisted keywords, this feature can go beyond flagging domains which may not be only phishing/virus/trojan links.
+Server owners are also able to block any kind of websites using contentscan command (custom flagging). By configuring your blacklisted keywords, this feature can go beyond flagging domains which may not be only phishing/virus/trojan links.
 
 Content Scan/Youtube flags any domains depending on the html content inside of the website and match against your blacklisted keywords. This means that you don't even need to know the exact url to block bad links. The feature can be useful for example blocking specific youtube links that have video titles such as: "How to get free discord nitro", "get free steam games" "how to become rich with mining".
 
