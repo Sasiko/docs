@@ -22,11 +22,13 @@ description: >-
 {% hint style="info" %}
 **Useful tip:** You can choose to have the bot scan for a single word consecutively if you add a comma between each keyword or you can add several words in one single keyword.&#x20;
 
-If you add multiple words in one keywords then the bot will search for that specific keywords. This can be useful for matching specific sentence which usually yields more accurate domain detection.&#x20;
+
 
 Example usage:\
 /contentscan add-keywords keywords: i like eating apple, but i dislike orange, lemon taste great\
-_"i like eating apple"_ **would count as 1 keyword.**
+_"i like eating apple"_ **would count as 1 keyword.**\
+****\
+****If you add multiple words in one keywords then the bot will search for that specific keywords. This can be useful for matching specific sentence which usually yields more accurate domain detection.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
