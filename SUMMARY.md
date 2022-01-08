@@ -12,7 +12,8 @@
 
 ## Commands
 
-* [Content Scan](commands/content-scan.md)
+* [Content Scan](commands/content-scan/README.md)
+  * [Usage/Tips](commands/content-scan/usage-tips.md)
 * [Youtube](commands/youtube.md)
 * [Punishment](commands/punishment.md)
 * [Logging](commands/logging.md)
