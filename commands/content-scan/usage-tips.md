@@ -21,7 +21,7 @@ By adding several words per keywords, it allows the bot to specifically target w
 Theres pros and cons by adding **multiple** words per keywords which will be listed below.
 
 <mark style="color:green;">+ Highly specialized which will target specific type of website content.</mark>\ <mark style="color:green;">+ Less likely that legitimate domain will get flagged.</mark>\
-<mark style="color:red;">-</mark> <mark style="color:red;">If a phishing website decides to change the entire text content then no match will be found.</mark>
+<mark style="color:red;">-</mark> <mark style="color:red;">If a phishing website decides to change the entire text content then no match will be found.</mark>\ <mark style="color:red;">- Example Keyword 1 must match against identical words in the same order in order to get flagged. If website content has the following words in wrong order: nitro discord free then keyword 1 will not get matched.</mark>&#x20;
 
 ## Single word per keyword
 
