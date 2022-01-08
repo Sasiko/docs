@@ -13,7 +13,7 @@
 {% hint style="info" %}
 **Useful tip:** You can choose to have the bot scan for a single word consecutively if you add a comma between each keyword or you can add several words in one single keyword.&#x20;
 
-Example usage:\
+<mark style="background-color:purple;">Example usage:</mark>\
 /contentscan add-keywords keywords: i like eating apple, but i dislike orange, lemon taste great\
 _"i like eating apple"_ **would count as 1 keyword.**
 
