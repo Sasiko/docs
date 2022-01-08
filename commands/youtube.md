@@ -18,7 +18,7 @@
 _"i like eating apple"_ **would count as 1 keyword.**
 
 ****\
-****If you add multiple words in one keywords then the bot will search for that specific keywords. This can be useful for matching specific sentence which usually yields more accurate domain detection.&#x20;
+****If you add more words per keywords, the more specialized the bot will be when flagging against domains. This can be useful for matching specific sentences that some site uses, which usually yields a more surgicial target against a very specific website content.
 {% endhint %}
 
 {% hint style="info" %}
