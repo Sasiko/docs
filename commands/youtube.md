@@ -15,7 +15,7 @@
 
 <mark style="background-color:purple;">Example usage:</mark>\
 /contentscan add-keywords keywords: i like eating apple, but i dislike orange, lemon taste great\
-_"i like eating apple"_ **would count as 1 keyword.**
+_"i like eating apple"_ **This would count as 1 keyword.**
 
 ****\
 ****If you add more words per keywords, the more specialized the bot will be when flagging against domains. This can be useful for matching specific sentences that some site uses, which usually yields a more surgicial target against a very specific website content.
