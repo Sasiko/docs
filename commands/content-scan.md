@@ -26,7 +26,7 @@ If you add multiple words in one keywords then the bot will search for that spec
 
 Example usage:\
 /contentscan add-keywords keywords: i like eating apple, but i dislike orange, lemon taste great\
-_"i like eating apple" would count as 1 keyword._
+_"i like eating apple"_ **would count as 1 keyword.**
 {% endhint %}
 
 {% hint style="info" %}
