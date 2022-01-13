@@ -18,6 +18,17 @@ description: >-
 From the image above, the bot will be able to scan these 2 keywords and flag the domain. \
 By adding several words per keywords, it allows the bot to specifically target website that continues to use the same text content.&#x20;
 
+{% hint style="warning" %}
+In keyword 1 example, it contains 3 words "Discord nitro free", which means that bot will scan these 3 words in that exact order. So if these 3 words are in mixed order example "free discord nitro", then the bot will not detect keyword 1.&#x20;
+
+Another situation is if a sentence contains this:
+
+Get 1 **discord** month of **nitro free** from....\
+Then bot will not treat that as keyword 1. That is where single keyword could be useful instead.
+{% endhint %}
+
+
+
 Theres pros and cons by adding **multiple** words per keywords which will be listed below.
 
 <mark style="color:green;">+ Highly specialized which will target specific type of website content.</mark>\ <mark style="color:green;">+ Less likely that legitimate domain will get flagged.</mark>\
@@ -35,6 +46,6 @@ From the image above, it showcases that the bot will individually scan each word
 
 Theres pros and cons by adding **single** words per keywords which will be listed below.
 
-<mark style="color:green;">+ Cover more variety of websites based on server owners preference, when configured correctly. More keywords you add, the less likely legitimate websites will get flagged.</mark> \
+<mark style="color:green;">+ Cover more variety of websites based on server owners preference, when configured correctly. More keywords you add, the less likely legitimate websites will get flagged.</mark> \ <mark style="color:green;">+ Can scan single keyword in any type of order. Example Keyword 3 can appear first while keyword 2 and 3 comes after and bot will flag it.</mark>\
 <mark style="color:red;">- Higher risk for flagging legitimate websites, as websites tend to use the same words. Requires more effort to configurate with accurate keywords.</mark>  \
 <mark style="color:red;">- If you add fewer keywords, the chances are that the bot will flag more legitimate website because there's less specialization in your keyword configuration.</mark> \ <mark style="color:red;"></mark>
