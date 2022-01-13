@@ -24,7 +24,7 @@ In keyword 1 example, it contains 3 words "Discord nitro free", which means that
 Another situation is if a sentence contains this:
 
 Get 1 **discord** month of **nitro free** from....\
-Then bot will not treat that as keyword 1. That is where single keyword could be useful instead.
+Then bot will not treat that as keyword 1. That is where **single word** per keyword could be useful instead.
 {% endhint %}
 
 
