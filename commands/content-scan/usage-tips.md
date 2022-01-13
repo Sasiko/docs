@@ -46,6 +46,6 @@ From the image above, it showcases that the bot will individually scan each word
 
 Theres pros and cons by adding **single** words per keywords which will be listed below.
 
-<mark style="color:green;">+ Cover more variety of websites based on server owners preference, when configured correctly. More keywords you add, the less likely legitimate websites will get flagged.</mark> \ <mark style="color:green;">+ Can scan single keyword in any type of order. Example Keyword 3 can appear first while keyword 2 and 3 comes after and bot will flag it.</mark>\
+<mark style="color:green;">+ Cover more variety of websites based on server owners preference, when configured correctly. More keywords you add, the less likely legitimate websites will get flagged.</mark> \ <mark style="color:green;">+ Can scan single keyword in any type of order. Example Keyword 3 can appear first while keyword 2 and 1 comes after and bot will still flag it.</mark>\
 <mark style="color:red;">- Higher risk for flagging legitimate websites, as websites tend to use the same words. Requires more effort to configurate with accurate keywords.</mark>  \
 <mark style="color:red;">- If you add fewer keywords, the chances are that the bot will flag more legitimate website because there's less specialization in your keyword configuration.</mark> \ <mark style="color:red;"></mark>
