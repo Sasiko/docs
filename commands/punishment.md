@@ -30,8 +30,6 @@
 
 {% tabs %}
 {% tab title="Commands demonstration" %}
-
-
-{% file src="../.gitbook/assets/timeout-duration.gif" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FnmHJoGsWkLx9sDlBcV13%2Ftimeout-duration.gif?alt=media&token=d1e94fbb-b348-4ad1-aa5e-d16b3b42b9d8" %}
 {% endtab %}
 {% endtabs %}
