@@ -45,3 +45,41 @@ Youtube scan is disabled by default. To activate it, simply add keywords
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FapakgZzG701kTc7rq7qk%2Fyoutube-remove.gif?alt=media&token=dfc36aa2-6fb1-46c8-8d7f-44e77a28595c" %}
 {% endtab %}
 {% endtabs %}
+
+
+
+| Commands                  | Explanation                                                                                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| /youtube add-channel url: | <p>Block a specific youtube channel. Do note that you need to submit a valid video url from the channel. <br>Command will not work if you copy the channel url!</p> |
+
+{% tabs %}
+{% tab title="Command demonstration" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FVKeNqMIn7GCOOYUxiwBc%2Fblock-youtube-ch.gif?alt=media&token=03e43765-79cd-4e20-a9d4-850e9a84c956" %}
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+| Commands                  | Explanation                                |
+| ------------------------- | ------------------------------------------ |
+| /youtube add-channel url: | Show list of blacklisted youtube channels. |
+
+{% tabs %}
+{% tab title="Command demonstration" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2F8vmegdkehYIr2vMoV33O%2Flist-youtube-ch.gif?alt=media&token=42cb64c7-8f5f-42d0-bd62-6ba2cc970b10" %}
+{% endtab %}
+{% endtabs %}
+
+
+
+| Commands                    | Explanation                                                                                                |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| /youtube remove-channel id: | Remove the blacklisted youtube channel. Make sure you copy the ID and not the name of the youtube channel! |
+
+{% tabs %}
+{% tab title="Command demonstration" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2Fi85bUksBNfNByRB1eATd%2Fremove-youtube-ch.gif?alt=media&token=9e16e7bb-6bdf-46ce-b236-6bb5ee02fdcc" %}
+{% endtab %}
+{% endtabs %}
