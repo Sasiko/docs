@@ -24,12 +24,14 @@
 
 
 
-| Commands                                   | Explanation                                                                                                                            |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| /punishment set-timeout-duration duration: | Choose how long a timeout should last. When you enter your number, press TAB key in order to choose a time unit. Then run the command. |
+| Commands                                   | Explanation                                                                                                                                                                                                            |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| /punishment set-timeout-duration duration: | <p>Choose how long a timeout should last and select which scanner type should apply for this timeout duration! <br>When you enter your number, press TAB key in order to choose a time unit. Then run the command.</p> |
 
 {% tabs %}
 {% tab title="Commands demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FaVB3vzcnXXEm1rWIU8HH%2Ftimeout-duration-new.gif?alt=media&token=10414216-b8a2-4c32-b726-d9fa01e4994b" %}
+
+
+{% file src="../.gitbook/assets/timeout-duration.gif" %}
 {% endtab %}
 {% endtabs %}
