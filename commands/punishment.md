@@ -1,8 +1,8 @@
 # Punishment
 
-| Commands                            | Explanation                                 |
-| ----------------------------------- | ------------------------------------------- |
-| /punishment set-punishment scanner: | Select punishment for specific scanner type |
+| Commands                            | Explanation                                  |
+| ----------------------------------- | -------------------------------------------- |
+| /punishment set-punishment scanner: | Select punishment for specific scanner type. |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
