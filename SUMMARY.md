@@ -20,3 +20,7 @@
 * [Logging](commands/logging.md)
 * [Whitelist](commands/whitelist.md)
 * [Blacklist](commands/blacklist.md)
+
+## Bot updates
+
+* [Updates](bot-updates/updates.md)
