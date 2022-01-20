@@ -5,6 +5,7 @@
 
 ## Scanner Types
 
+* [Heuristics detection](scanner-types/heuristics-detection.md)
 * [Primary Anti-phishing](scanner-types/primary-anti-phishing.md)
 * [Extended Anti-phishing](scanner-types/extended-anti-phishing.md)
 * [Content Scan](scanner-types/content-scan.md)
