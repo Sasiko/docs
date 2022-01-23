@@ -6,7 +6,7 @@
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FiDpa8U1rGJ7gwIc1x412%2Fyoutube-add.gif?alt=media&token=302fe2fd-e3bf-4608-bea4-3e712e973e3d" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FwD2VcKHpWNYsWwLmAD64%2Fyoutube%20add%20keywords.gif?alt=media&token=94d177e4-18fd-4c6b-843b-818e8a395f3d" %}
 {% endtab %}
 {% endtabs %}
 
@@ -30,7 +30,7 @@ Youtube scan is disabled by default. To activate it, simply add keywords
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FvwEzOLQ84H05qRUZbr6w%2Fyoutube-list.gif?alt=media&token=391b4551-3fd5-4af4-bb13-6c69290588a0" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FKccrBJMT9ymfS5gk3hk2%2Fyoutube%20list%20keywords.gif?alt=media&token=9ffa3f55-67cf-49a7-a7c2-852a5725f11a" %}
 {% endtab %}
 {% endtabs %}
 
@@ -42,7 +42,7 @@ Youtube scan is disabled by default. To activate it, simply add keywords
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FapakgZzG701kTc7rq7qk%2Fyoutube-remove.gif?alt=media&token=dfc36aa2-6fb1-46c8-8d7f-44e77a28595c" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2F4UccK9o0ZhTZItG5okzX%2Fyoutube%20remove%20keywords.gif?alt=media&token=8c17156d-0094-4b1b-b321-b7237cbd12f6" %}
 {% endtab %}
 {% endtabs %}
 
@@ -54,7 +54,7 @@ Youtube scan is disabled by default. To activate it, simply add keywords
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FVKeNqMIn7GCOOYUxiwBc%2Fblock-youtube-ch.gif?alt=media&token=03e43765-79cd-4e20-a9d4-850e9a84c956" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FmVfeW6REA04eZcFn5jM2%2Fyoutube-add-ch.gif?alt=media&token=030ea870-79d4-4d5c-92d3-b99607e1c414" %}
 {% endtab %}
 {% endtabs %}
 
@@ -62,9 +62,9 @@ Youtube scan is disabled by default. To activate it, simply add keywords
 
 
 
-| Commands                  | Explanation                                |
-| ------------------------- | ------------------------------------------ |
-| /youtube add-channel url: | Show list of blacklisted youtube channels. |
+| Commands               | Explanation                                |
+| ---------------------- | ------------------------------------------ |
+| /youtube list-channels | Show list of blacklisted youtube channels. |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
@@ -80,6 +80,6 @@ Youtube scan is disabled by default. To activate it, simply add keywords
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2Fi85bUksBNfNByRB1eATd%2Fremove-youtube-ch.gif?alt=media&token=9e16e7bb-6bdf-46ce-b236-6bb5ee02fdcc" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FfAFc2zeOqRbedves4otU%2Fyoutube-remove-ch.gif?alt=media&token=c7f8951c-f1e0-4991-af2a-4324721a2521" %}
 {% endtab %}
 {% endtabs %}
