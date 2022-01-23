@@ -48,9 +48,9 @@
 
 
 
-| Commands                            | Explanation                                                             |
-| ----------------------------------- | ----------------------------------------------------------------------- |
-| /ignorechannel add-channel channel: | Add a channel to the ignore list. Bot will not read the channel at all. |
+| Commands                     | Explanation                                    |
+| ---------------------------- | ---------------------------------------------- |
+| /ignorechannel view-channels | Showcase list of channel from the ignore list. |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
