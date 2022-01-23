@@ -1,8 +1,8 @@
 # Youtube
 
-| Commands                        | Explanation                                                         |
-| ------------------------------- | ------------------------------------------------------------------- |
-| /youtube add-keywords keywords: | This command will list all the keywords you have added for youtube. |
+| Commands                        | Explanation                                                                  |
+| ------------------------------- | ---------------------------------------------------------------------------- |
+| /youtube add-keywords keywords: | You can add multiple keywords, just ensure to add comma between each words.  |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
