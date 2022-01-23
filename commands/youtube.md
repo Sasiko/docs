@@ -6,7 +6,7 @@
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FwD2VcKHpWNYsWwLmAD64%2Fyoutube%20add%20keywords.gif?alt=media&token=94d177e4-18fd-4c6b-843b-818e8a395f3d" %}
+![](../.gitbook/assets/youtube-add-ch.gif)
 {% endtab %}
 {% endtabs %}
 
@@ -68,7 +68,7 @@ Youtube scan is disabled by default. To activate it, simply add keywords
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2F8vmegdkehYIr2vMoV33O%2Flist-youtube-ch.gif?alt=media&token=42cb64c7-8f5f-42d0-bd62-6ba2cc970b10" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2F9vkl4QBvuwECqrvoSvdx%2Fyoutube-list-ch.gif?alt=media&token=1ec1b936-87ee-45d9-86f0-c38a745cd8b4" %}
 {% endtab %}
 {% endtabs %}
 
