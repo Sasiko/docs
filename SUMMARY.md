@@ -20,6 +20,7 @@
 * [Logging](commands/logging.md)
 * [Whitelist](commands/whitelist.md)
 * [Blacklist](commands/blacklist.md)
+* [Ignore](commands/ignore.md)
 
 ## Bot updates
 
