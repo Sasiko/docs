@@ -1,3 +1,7 @@
+---
+description: Ignore roles & channels
+---
+
 # Ignore
 
 | Commands                   | Explanation                                                                        |
