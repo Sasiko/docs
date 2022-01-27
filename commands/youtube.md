@@ -6,7 +6,7 @@
 
 {% tabs %}
 {% tab title="Command demonstration" %}
-![](../.gitbook/assets/youtube-add-ch.gif)
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FwD2VcKHpWNYsWwLmAD64%2Fyoutube%20add%20keywords.gif?alt=media&token=94d177e4-18fd-4c6b-843b-818e8a395f3d" %}
 {% endtab %}
 {% endtabs %}
 
