@@ -14,8 +14,6 @@ Server owners are also able to block any kind of websites using contentscan comm
 
 Content Scan/Youtube flags any domains depending on the html content inside of the website and match against your blacklisted keywords. This means that you don't even need to know the exact url to block bad links. The feature can be useful for example blocking specific youtube links that have video titles such as: "How to get free discord nitro", "get free steam games" "how to become rich with mining".
 
-
-
 ### Bot prefix
 
 > /
@@ -28,11 +26,7 @@ Content Scan/Youtube flags any domains depending on the html content inside of t
 
 [https://discord.com/oauth2/authorize?client\_id=901735805662408725\&permissions=1101659188294\&scope=bot%20applications.commands](https://discord.com/oauth2/authorize?client\_id=901735805662408725\&permissions=1101659188294\&scope=bot%20applications.commands)
 
-
-
-
-
-
+Created by Sasiko#1234 | You can reach me in support server for help/inquires!
 
 ### Guides: Jump right in
 
@@ -49,5 +43,3 @@ Follow our handy guides to get started on the basics as quickly as possible:
 {% content-ref url="scanner-types/content-scan.md" %}
 [content-scan.md](scanner-types/content-scan.md)
 {% endcontent-ref %}
-
-Created by Sasiko#1234
