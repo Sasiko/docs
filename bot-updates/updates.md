@@ -4,6 +4,12 @@ description: Archive of all the updates that has been released
 
 # Updates
 
+**30 January**
+
+* Phishing database are now stores as RAM cache instead of sending request to a external api server to match the domain through external database. The local RAM cache is also synced with phishing apis database with help of websocket.&#x20;
+* Help command added
+* Whois command added&#x20;
+
 **16 January**
 
 * bugfix for logfixes again
