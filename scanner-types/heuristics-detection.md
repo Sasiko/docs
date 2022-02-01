@@ -16,7 +16,7 @@ Due to a consistent pattern from these bad actors, majority of them register few
 
 #### Detection condition
 
-The bot will be able to scan all types and find which registrar a domain is registered under and if the domain was created very recently then Phish Grabber will sanction the users by default.&#x20;
+The bot will scan all links and determine which registrar a domain is registered under and if the domain was created very recently then Phish Grabber will sanction the users by default.&#x20;
 
 Punishment type is enabled by default that is called "Heurisitic Protection". This can however be disabled by individual server owners.&#x20;
 
