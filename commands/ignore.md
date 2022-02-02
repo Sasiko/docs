@@ -6,7 +6,7 @@ description: Ignore roles & channels
 
 | Commands                   | Explanation                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------- |
-| /ignorerole add-role role: | By adding a role, the bot will not sanction the user with the ignored role at all! |
+| /ignorerole add-role role: | By adding a role, the bot will not sanction the user with the ignored role at all. |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
