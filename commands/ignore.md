@@ -4,9 +4,9 @@ description: Ignore roles & channels
 
 # Ignore
 
-| Commands                   | Explanation                                                                        |
-| -------------------------- | ---------------------------------------------------------------------------------- |
-| /ignorerole add-role role: | By adding a role, the bot will not sanction the user with the ignored role at all. |
+| Commands                   | Explanation                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| /ignorerole add-role role: | By adding a role, the bot will not sanction the user with the ignored role at all |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
