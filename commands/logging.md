@@ -1,8 +1,8 @@
 # Logging
 
-| Commands                         | Explanation                                                                                  |
-| -------------------------------- | -------------------------------------------------------------------------------------------- |
-| /logchannel set-channel channel: | Configure a log channel where bot sanction action will be logged and posted in that channel. |
+| Commands                         | Explanation                                                                                 |
+| -------------------------------- | ------------------------------------------------------------------------------------------- |
+| /logchannel set-channel channel: | Configure a log channel where bot sanction action will be logged and posted in that channel |
 
 {% tabs %}
 {% tab title="Command demonstration" %}
