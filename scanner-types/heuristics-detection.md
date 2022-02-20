@@ -6,11 +6,9 @@ description: First line of defense against newly registered phishing/malicious d
 
 #### Background
 
-Phish Grabber comes with several configureable heuristic features that gives servers first line of defense against unknown and not yet reported phishing domains.&#x20;
+Phish Grabber comes with several configureable heuristic features that gives servers first line of defense against unknown and not yet reported phishing domains. This is enabled by default.
 
-By nature phishing any discord related phishing domains are registered under the same day as it get spammed to reach higher yield of target groups.
-
-Due to a consistent pattern from these bad actors, majority of them register few domain registrar that gives them a safe haven against any report against them.&#x20;
+By nature any discord related phishing domains  are registered and spammed under the same day. Majority of them register few domain registrar that gives them a safe haven against any reports against them. Because of these predictable patterns, it allows Phish Grabber to detect these pattern and block these new registered domains before it even has the chance to spam in your server.
 
 
 
