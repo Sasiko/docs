@@ -15,7 +15,7 @@
 {% hint style="danger" %}
 **NOTICE!**
 
-In order for bot to successfully punish the user, the bot must be in higher role hiearchy than the role that the users you want the bot to punish for.
+In order for bot to successfully punish the user, the bot must be in higher role hiearchy than the user's role.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
