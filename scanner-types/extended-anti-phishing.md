@@ -1,4 +1,4 @@
-# Extended Antifishing
+# Extended Anti-phishing
 
 ## Alternative phishing database
 
@@ -9,7 +9,7 @@ This database contains over 400 000 phishing links.
 These phishing domains are generalized domains that target users beyond discord target group and these website are based on fake hospital, library, bank, forum, subscription based sites and many more variety.&#x20;
 
 {% hint style="warning" %}
-The database do contain some false positive which means some domains in that list are legitimate websites. If you choose to enable this database, then please consider a more milder punishment type.
+The database does contain some false positives which means some domains in that list are legitimate websites. If you choose to enable this database, then please consider a milder punishment type.
 {% endhint %}
 
 {% hint style="info" %}
