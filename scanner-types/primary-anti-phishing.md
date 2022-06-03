@@ -1,12 +1,6 @@
----
-description: >-
-  A community of developers reporting verified phishing domains to API. Have
-  high accuracy of confirmed phishing domains.
----
+# Primary Antifishing
 
-# Primary Anti-phishing
-
-## Main phishing database
+## Fishing APIs
 
 This bot uses 2 main APIs that maintain a large database of phishing domains that specifically target discord, steam and epic websites. \
 \
@@ -16,17 +10,11 @@ Thanks to the APIs, phish grabber can scan known URL shorteners and find the rea
 
 
 
-## Default: <mark style="color:green;">Enabled</mark>
+## Automatic
 
 By default, the bot automatically uses "Primary Antiphishing" scanner type and scans any links  and have punishment type "Delete & Ban".&#x20;
 
-**Default punishment type:** Delete & Ban
 
-
-
-To disable the punishment simply use this command and then choose the specific scanner type to disable it.
-
-> **/punishment set-punishment scanner:Primary Anti-phishing**
 
 
 
