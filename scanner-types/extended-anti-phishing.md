@@ -1,3 +1,7 @@
+---
+description: Large database coverage of malicious domains. CAN CONTAIN FALSE POSITIVES!
+---
+
 # Extended Anti-phishing
 
 ## Optional phishing database

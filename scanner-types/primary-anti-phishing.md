@@ -6,7 +6,7 @@ description: >-
 
 # Primary Anti-phishing
 
-## Fishing APIs
+## Main phishing database
 
 This bot uses 2 main APIs that maintain a large database of phishing domains that specifically target discord, steam and epic websites. \
 \
