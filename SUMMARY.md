@@ -5,7 +5,7 @@
 
 ## Scanner Types
 
-* [Profile picture scan](scanner-types/youtube.md)
+* [Global Avatar List](scanner-types/youtube.md)
 * [Heuristics detection](scanner-types/heuristics-detection.md)
 * [Primary Anti-phishing](scanner-types/primary-anti-phishing.md)
 * [Extended Anti-phishing](scanner-types/extended-anti-phishing.md)
