@@ -32,4 +32,4 @@ Bot will by default auto delete message and timeout users from all servers if th
 
 To disable the punishment simply use this command and then choose the specific scanner type to disable it.
 
-> /punishment set-punishment scanner:Heuristic Protection
+> **/punishment set-punishment scanner:Heuristic Protection**

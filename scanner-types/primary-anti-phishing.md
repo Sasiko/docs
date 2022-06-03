@@ -26,7 +26,7 @@ By default, the bot automatically uses "Primary Antiphishing" scanner type and s
 
 To disable the punishment simply use this command and then choose the specific scanner type to disable it.
 
-> /punishment set-punishment scanner:Primary Anti-phishing
+> **/punishment set-punishment scanner:Primary Anti-phishing**
 
 
 
