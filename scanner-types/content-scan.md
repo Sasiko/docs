@@ -1,9 +1,3 @@
----
-description: >-
-  A data scraping feature that scans any websites html content in order to match
-  against server owners blacklisted keywords.
----
-
 # Content Scan
 
 ## How Content scan works
@@ -24,8 +18,13 @@ Phrase 1 gold, red Phrase 2 apple
 
 Then the bot will not flag the url. It must contain all words from the specific phrases to flag a domain.
 
-## Default: <mark style="color:red;">Disabled</mark>
+## Disabled
 
 By default, content scan feature is disabled until server owners add any keywords using this command:
 
-> **/contentscan add-keywords keywords:**
+> /contentscan add-keywords keywords:
+
+
+
+
+
