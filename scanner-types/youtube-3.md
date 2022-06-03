@@ -2,7 +2,7 @@
 
 ## How URL List works
 
-Some malicious actors on discord are using legitimate website as file storage purpose. They will later use those site to serve as direct download links. The issue with direct download links is that API does not blacklist subdomains, but only main domains while Content scan works only if link is a website and contains content. Because the nature of direct download, there are no content for "Content scan" to scan.&#x20;
+Some malicious actors on discord are using legitimate website as file storage purpose. They will later use those site to serve as direct download links. The issue with direct download links is that API does not blacklist subdomains nor legitimate domains, while Content scan works only if link is an actual website and contains html content. Because the nature of direct download, there are no content for "Content scan" to scan.&#x20;
 
 Example link of how these criminals take advantage of legitimate website service
 
