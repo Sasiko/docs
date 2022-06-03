@@ -16,7 +16,7 @@ Thanks to the APIs, phish grabber can scan known URL shorteners and find the rea
 
 
 
-## Automatic
+## Default: <mark style="color:green;">Enabled</mark>
 
 By default, the bot automatically uses "Primary Antiphishing" scanner type and scans any links  and have punishment type "Delete & Ban".&#x20;
 

@@ -16,6 +16,6 @@ These phishing domains are generalized domains that target users beyond discord 
 The database does contain some false positives which means some domains in that list are legitimate websites. If you choose to enable this database, then please consider a milder punishment type.
 {% endhint %}
 
-{% hint style="info" %}
+## Default: <mark style="color:red;">Disabled</mark>
+
 By default, this scanner type is disabled and to enable this scanner type and use it's database then run punishment command and choose any punishment type to enable it.
-{% endhint %}
