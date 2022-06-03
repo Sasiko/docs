@@ -1,6 +1,6 @@
 # Extended Anti-phishing
 
-## Alternative phishing database
+## Optional phishing database
 
 > Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.
 

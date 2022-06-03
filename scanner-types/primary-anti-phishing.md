@@ -1,4 +1,10 @@
-# Primary Antifishing
+---
+description: >-
+  A community of developers reporting verified phishing domains to API. Have
+  high accuracy of confirmed phishing domains.
+---
+
+# Primary Anti-phishing
 
 ## Fishing APIs
 
