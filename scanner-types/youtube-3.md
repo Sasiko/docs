@@ -10,7 +10,7 @@ mediafire.com/abcdef\
 github.com/something.exe\
 \
 \
-This is where URL List comes in, to cover these type of issues. The URL List are scanned and vetted by the Phish Grabbers staff and if they deem a specific URL to be malicious, it will be blacklisted. However, unlike "Blacklist, URL list does NOT ban the actual domain. Instead it bans the specific URL string instead.&#x20;
+This is where URL List comes in, to cover these type of issues. The URL List are scanned and vetted by the Phish Grabbers staff and if they deem a specific URL to be malicious, it will be blacklisted. However, unlike the scanner type "Blacklist", URL list does NOT ban the actual domain. Instead it bans the specific URL string instead.&#x20;
 
 If bot blacklist github.com/something.exe\
 then github.com will not be blacklisted.
