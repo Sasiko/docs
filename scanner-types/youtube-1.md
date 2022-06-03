@@ -2,10 +2,10 @@
 
 ## How Youtube works
 
-Phish Grabber scans profile picture when new user join your server and when they are in your server and changes to a new profile picture. Bot will now match any profile pictures with the aforementioned conditions against the bots database of blacklisted profile pictures using similarity comparison that works like Google reverse image search. The blackllisted profile picture will only get added to the database if DM BOT spammers uses multiple accounts with the same profile picture. This feature will be extremely useful protecting your server against **DM SPAMMERS** that impersonate discord staff or any known dm spammers.
+Youtube scanner type have 2 functions. 1 is for scanning content of youtube videos. 2 is for blocking specific youtube channel.
 
-\
-
+1. Helps you block any youtube videos based on youtube video contents. This function works similar to "Content scan" but specialized in youtube videos only. If you add keywords then Phish Grabber will scan any youtube video in order to match against your keywords.&#x20;
+2. Block a specific youtube channel at your choosing. If any videos, newly uploaded or old, originates from the blacklisted channel, Phish Grabber will detect it and sanction the users accordingly, if enabled.&#x20;
 
 ## Important to know
 
@@ -20,8 +20,6 @@ Note that the bot will not flag the website if the content does not contain all 
 Phrase 1 gold, red Phrase 2 apple
 
 Then the bot will not flag the url. It must contain all words from the specific phrases to flag a domain.
-
-
 
 ## Default: <mark style="color:red;">Disabled</mark>
 

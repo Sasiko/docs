@@ -15,14 +15,6 @@ This is where URL List comes in, to cover these type of issues. The URL List are
 If bot blacklist github.com/something.exe\
 then github.com will not be blacklisted.
 
-
-
-
-
-
-
-
-
 ## Default: <mark style="color:green;">Enabled</mark>
 
 Bot will by default delete message and timeout users from all servers if the user post a detected link from Phish grabber internal database.&#x20;
@@ -33,8 +25,3 @@ Bot will by default delete message and timeout users from all servers if the use
 To enable the punishment simply use this command to disable it.
 
 > **/punishment set-punishment scanner:URL List**
-
-
-
-
-
