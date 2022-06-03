@@ -11,6 +11,7 @@
 * [Extended Anti-phishing](scanner-types/extended-anti-phishing.md)
 * [Content Scan](scanner-types/content-scan.md)
 * [Youtube](scanner-types/youtube-1.md)
+* [Blacklist](scanner-types/youtube-2.md)
 
 ## Commands
 

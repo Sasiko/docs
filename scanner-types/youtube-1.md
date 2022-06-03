@@ -25,8 +25,7 @@ By default, content scan feature is disabled until server owners add any keyword
 
 > /youtube add-keywords keywords:
 
-## Default: <mark style="color:red;">Disabled</mark>
 
-By default, youtube feature is disabled until server owners add any keywords using this command:
 
-> /youtube add-keywords keywords:
+
+

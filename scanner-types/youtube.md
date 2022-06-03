@@ -8,15 +8,6 @@ The blacklisted profile picture will only get added to the database if DM BOT sp
 
 
 
-{% hint style="info" %}
-Bot will by default auto kick users from all servers if the users profile picture match against the profile picture database.\
-To disable the punishment simply use this command to disable it.
-
-
-
-<mark style="background-color:blue;">**/punishment set-punishment scanner:Global Avatar List**</mark>
-{% endhint %}
-
 ## Default: <mark style="color:green;">Enabled</mark>
 
 Bot will by default auto kick users from all servers if the users profile picture match against the profile picture database.
