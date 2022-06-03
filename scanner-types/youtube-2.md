@@ -15,7 +15,7 @@ Bot will by default delete message and ban users from all servers if the user po
 **Default punishment type**: Delete & Ban
 
 \
-To disable the punishment simply use this command to disable it.
+To enable the punishment simply use this command to disable it.
 
 > **/punishment set-punishment scanner:Blacklist**
 

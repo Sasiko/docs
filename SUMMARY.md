@@ -12,6 +12,7 @@
 * [Content Scan](scanner-types/content-scan.md)
 * [Youtube](scanner-types/youtube-1.md)
 * [Blacklist](scanner-types/youtube-2.md)
+* [URL List](scanner-types/youtube-3.md)
 
 ## Commands
 
