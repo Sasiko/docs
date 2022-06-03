@@ -12,7 +12,7 @@ Simple to setup using slash commands. The bot uses 3 different phishing/malware 
 
 Server owners are also able to block any kind of websites using contentscan command (custom flagging). By configuring your blacklisted keywords, this feature can go beyond flagging domains which may not be only phishing/virus/trojan links.
 
-Content Scan/Youtube are **data scraping** features that flags any domains depending on the html content inside of the website and match against your blacklisted keywords. This means that you don't even need to know the exact url to block bad links. The feature can be useful for example blocking specific youtube links that have video titles such as: "How to get free discord nitro", "get free steam games" "how to become rich with mining".
+Content Scan/Youtube are **data scraping** features that flag any domains depending on the Html content inside the website and match against your blacklisted keywords. This means that you don't even need to know the exact URL to block bad links. The feature can be useful for example blocking specific youtube links that have video titles such as: "How to get free discord nitro", "get free steam games" "how to become rich with mining".
 
 ### Bot prefix
 
