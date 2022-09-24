@@ -1,18 +1,27 @@
-# Blacklist
+# URL List
 
-## How blacklist works
+## How URL List works
 
-Server owners are able to blacklist any type of domain at their choosing. Please note that if you ban a domain, you will ban all subdomains aswell.&#x20;
+Some malicious actors on discord are using legitimate website as file storage purpose. They will later use those site to serve as direct download links. The issue with direct download links is that API does not blacklist subdomains nor legitimate domains, while Content scan works only if link is an actual website and contains html content. Because the nature of direct download, there are no content for "Content scan" to scan.&#x20;
 
-Example. If you blacklist google.com. Then abc.google.com will also be detected and sanction users accordingly.
+Example link of how these criminals take advantage of legitimate website service
+
+mediafire.com/abcdef\
+github.com/something.exe\
+\
+\
+This is where URL List comes in, to cover these type of issues. The URL List are scanned and vetted by the Phish Grabbers staff and if they deem a specific URL to be malicious, it will be blacklisted. However, unlike the scanner type "Blacklist", URL list does NOT ban the actual domain. Instead it bans the specific URL string instead.&#x20;
+
+If bot blacklist github.com/something.exe\
+then github.com will not be blacklisted.
 
 ## Default: <mark style="color:green;">Enabled</mark>
 
-Bot will by default delete message and ban users from all servers if the user post a blacklisted link from server owners blacklist.
+Bot will by default delete message and timeout users from all servers if the user post a detected link from Phish grabber internal database.&#x20;
 
-**Default punishment type**: Delete & Ban
+**Default punishment type**: Delete & Timeout
 
 \
 To enable the punishment simply use this command to disable it.
 
-> **/punishment set-punishment scanner:Blacklist**
+> **/punishment set-punishment scanner:URL List**
