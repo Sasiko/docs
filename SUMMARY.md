@@ -9,6 +9,7 @@
 * [Heuristics detection](scanner-types/heuristics-detection.md)
 * [Primary Anti-phishing](scanner-types/primary-anti-phishing.md)
 * [Extended Anti-phishing](scanner-types/extended-anti-phishing.md)
+* [Username Scanner](scanner-types/extended-anti-phishing-1.md)
 * [Content Scan](scanner-types/content-scan.md)
 * [Youtube](scanner-types/youtube.md)
 * [Blacklist](scanner-types/youtube-1.md)
