@@ -15,22 +15,8 @@ When executing the command **/settings** you are presented with 3 selection fiel
 * **Local Scanners**\
   ****The scanners from Global scanners shares identical functions in Local scanners. The only difference between Global and Local is that local are settings that applies only to your server and nowhere else. \
 
-*   **Server Settings**\
-    This module allows you to set up log channel where bot post messages,\
-
-
-
-
-\
-
-
-
-
-
-
-
-
-
+* **Server Settings**\
+  This module allows you to set up log channel where bot post messages,
 
 {% hint style="danger" %}
 **NOTICE!**
