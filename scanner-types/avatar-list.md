@@ -2,9 +2,9 @@
 description: Using pHash to scan and match against blacklisted profile picture
 ---
 
-# Global Avatar List
+# Avatar List
 
-## How Global avatar list works
+## How Global/Local avatar list works
 
 Phish Grabber scans profile picture(avatar) when new user join your server and when they are in your server and changes to a new profile picture. Bot will now match any profile pictures with the aforementioned conditions against the bots database of blacklisted profile pictures using similarity comparison that works like Google reverse image search.&#x20;
 
@@ -19,4 +19,8 @@ Bot will by default auto kick users from all servers if the users profile pictur
 \
 To disable the punishment simply use this command to disable it.
 
-> **/punishment set-punishment scanner:Global Avatar List**
+> **Step 1:** /settings\
+> **Step 2:** \
+> ****Option 1: Global Scanners\
+> Option 2: Local Scanners\
+> **Step 3:** Avatar Scanner

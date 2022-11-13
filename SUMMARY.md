@@ -5,7 +5,7 @@
 
 ## Scanner Types
 
-* [Global Avatar List](scanner-types/global-avatar-list.md)
+* [Avatar List](scanner-types/avatar-list.md)
 * [Heuristics detection](scanner-types/heuristics-detection.md)
 * [Primary Anti-phishing](scanner-types/primary-anti-phishing.md)
 * [Extended Anti-phishing](scanner-types/extended-anti-phishing.md)
