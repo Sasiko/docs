@@ -17,7 +17,7 @@ Use this website to test your working regex configuration: [https://regex101.com
 
 ## Default: <mark style="color:red;">Disabled</mark>
 
-
+To configurate this scanner, follow these steps:
 
 > **Step 1: /settings**\
 > **Step 2: Select Server scanners**\

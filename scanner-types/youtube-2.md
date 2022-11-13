@@ -22,6 +22,6 @@ Bot will by default delete message and timeout users from all servers if the use
 **Default punishment type**: Delete & Timeout
 
 \
-To enable the punishment simply use this command to disable it.
+To configurate this scanner, follow these steps:
 
 > **/punishment set-punishment scanner:URL List**

@@ -4,7 +4,7 @@ description: >-
   type of unknown website based on server owners preferences.
 ---
 
-# Phish Grabber
+# Welcome
 
 ## What does the bot do?
 
@@ -32,8 +32,8 @@ Created by Sasiko#1234 | You can reach me in support server for help/inquires!
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="phish-grabber/setup.md" %}
-[setup.md](phish-grabber/setup.md)
+{% content-ref url="setup.md" %}
+[setup.md](setup.md)
 {% endcontent-ref %}
 
 {% content-ref url="scanner-types/extended-anti-phishing.md" %}

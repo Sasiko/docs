@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Phish Grabber](README.md)
-  * [Setup](phish-grabber/setup.md)
+* [Welcome](README.md)
+* [Setup](setup.md)
 
 ## Scanner Types
 
-* [Avatar List](scanner-types/avatar-list.md)
-* [Heuristics detection](scanner-types/heuristics-detection.md)
+* [Avatar scanner](scanner-types/avatar-scanner.md)
+* [Domain Registrar Blacklist](scanner-types/domain-registrar-blacklist.md)
 * [Primary Anti-phishing](scanner-types/primary-anti-phishing.md)
 * [Extended Anti-phishing](scanner-types/extended-anti-phishing.md)
 * [Username Scanner](scanner-types/extended-anti-phishing-1.md)

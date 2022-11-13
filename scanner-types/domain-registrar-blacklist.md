@@ -2,13 +2,13 @@
 description: First line of defense against newly registered phishing/malicious domains!
 ---
 
-# Heuristics detection
+# Domain Registrar Blacklist
 
 #### Background
 
 Phish Grabber comes with several configureable heuristic features that gives servers first line of defense against unknown and not yet reported phishing domains. This is enabled by default.
 
-By nature any discord related phishing domains  are registered and spammed under the same day. Majority of them register few domain registrar that gives them a safe haven against any reports against them. Because of these predictable patterns, it allows Phish Grabber to detect these pattern and block these new registered domains before it even has the chance to spam in your server.
+By nature any discord related phishing domains  are registered and spammed under the same day. Majority of the criminals register their domains on infamous "Domain Registrars" that gives them a safe haven.&#x20;
 
 #### Detection condition
 
@@ -30,6 +30,6 @@ Bot will by default auto delete message and timeout users from all servers if th
 
 
 
-To disable the punishment simply use this command and then choose the specific scanner type to disable it.
+To configurate this scanner, follow these steps:
 
 > **/punishment set-punishment scanner:Heuristic Protection**

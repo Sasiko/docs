@@ -23,6 +23,6 @@ Then the bot will not flag the url. It must contain all words from the specific 
 
 ## Default: <mark style="color:red;">Disabled</mark>
 
-By default, youtube feature is disabled until server owners add any keywords using this command:
+To configurate this scanner, follow these steps:
 
 > **/youtube add-keywords keywords:**
