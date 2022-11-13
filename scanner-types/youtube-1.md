@@ -1,4 +1,4 @@
-# Blacklist
+# Domain Blacklist
 
 ## How blacklist works
 
@@ -15,4 +15,6 @@ Bot will by default delete message and ban users from all servers if the user po
 \
 To configurate this scanner, follow these steps:
 
-> **/punishment set-punishment scanner:Blacklist**
+> **Step 1:** /settings\
+> **Step 2:** _Select_ Server scanners\
+> **Step 3:** Domain blacklist

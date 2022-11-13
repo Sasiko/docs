@@ -20,4 +20,6 @@ The database does contain some false positives which means some domains in that 
 
 To configurate this scanner, follow these steps:
 
-> **/punishment set-punishment scanner:Extended Anti-phishing**
+> **Step 1:** /settings\
+> **Step 2:** _Select_ Server scanners\
+> **Step 3:** _Click the button_ **Set Extended AntiPhish API Punishment**

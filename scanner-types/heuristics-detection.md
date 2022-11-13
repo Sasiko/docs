@@ -32,4 +32,6 @@ Bot will by default auto delete message and timeout users from all servers if th
 
 To configurate this scanner, follow these steps:
 
-> **/punishment set-punishment scanner:Heuristic Protection**
+> **Step 1:** /settings\
+> **Step 2:** _Select_ Server scanners\
+> **Step 3:** _Click the button_ **Domain Registrar Blacklist**

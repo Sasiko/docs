@@ -4,12 +4,6 @@
 | ------------------------------- | ---------------------------------------------------------------------------- |
 | /youtube add-keywords keywords: | You can add multiple keywords, just ensure to add comma between each words.  |
 
-{% tabs %}
-{% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FwD2VcKHpWNYsWwLmAD64%2Fyoutube%20add%20keywords.gif?alt=media&token=94d177e4-18fd-4c6b-843b-818e8a395f3d" %}
-{% endtab %}
-{% endtabs %}
-
 {% hint style="info" %}
 **Useful tip:** You can choose to have the bot scan for a single word consecutively if you add a comma between each keyword or you can add several words in one single keyword.&#x20;
 

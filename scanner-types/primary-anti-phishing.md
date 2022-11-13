@@ -24,4 +24,6 @@ By default, the bot automatically uses "Primary Antiphishing" scanner type and s
 
 To configurate this scanner, follow these steps:
 
-> **/punishment set-punishment scanner:Primary Anti-phishing**
+> **Step 1:** /settings\
+> **Step 2:** _Select_ Server scanners\
+> **Step 2:** _Click the button_ **Set Primary AntiPhish API Punishment**
