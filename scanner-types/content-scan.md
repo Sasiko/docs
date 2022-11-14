@@ -4,7 +4,7 @@ description: >-
   against server owners blacklisted keywords.
 ---
 
-# Content Scan
+# Content Scanner
 
 ## How Content scan works
 
@@ -26,6 +26,8 @@ Then the bot will not flag the url. It must contain all words from the specific 
 
 ## Default: <mark style="color:red;">Disabled</mark>
 
-By default, content scan feature is disabled until server owners add any keywords using this command:
+To configurate this scanner, follow these steps:
 
-> **/contentscan add-keywords keywords:**
+> **Step 1:** /settings\
+> **Step 2:** _Select_ Server scanners\
+> **Step 3:** Content scanner

@@ -20,7 +20,6 @@
 * [Content Scanner](commands/content-scan.md)
   * [Usage/Tips](commands/content-scan/usage-tips.md)
 * [Youtube](commands/youtube.md)
-* [Punishment](commands/punishment.md)
 * [Logging](commands/logging.md)
 * [Whitelist](commands/whitelist.md)
 * [Blacklist](commands/blacklist.md)
