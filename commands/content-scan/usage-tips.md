@@ -9,9 +9,9 @@ description: >-
 
 ## Multiple words per keyword
 
-**Command example:**
-
-/contentscan add-keywords keywords: discord nitro free, enjoy bigger file uploads
+| Keyword example                               |
+| --------------------------------------------- |
+| discord nitro free, enjoy bigger file uploads |
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2F18wGm1OMugXaV2W6JP9A%2Fexample%201.png?alt=media&token=49cce63b-a3c1-443e-8d76-be3d28bacc73" %}
 
@@ -36,9 +36,9 @@ Theres pros and cons by adding **multiple** words per keywords which will be lis
 
 ## Single word per keyword
 
-**Command example:**
-
-/contentscan add-keywords keywords: discord, nitro, free
+| Keyword example      |
+| -------------------- |
+| discord, nitro, free |
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2Fe5jNIReBVtGB7b7ni2Ri%2Fexample%202.png?alt=media&token=3b1f155e-804d-4b56-a06f-e752a114e55e" %}
 
