@@ -11,8 +11,9 @@ description: >-
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | <p>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Keyword List</p> | You can add multiple keywords, just ensure to add comma between each words.  |
 
-| <p>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Patterns (Regex) List</p> | You can add javascript regex expression with this configuration.  |
+| Steps                                                                                                                                | Explanation                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| <p>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Patterns (Regex) List</p> | You can add javascript regex expression with this configuration.  |
 
 {% hint style="info" %}
 **Useful tip:** You can choose to have the bot scan for a single word consecutively if you add a comma between each keyword or you can add several words in one single keyword.&#x20;
