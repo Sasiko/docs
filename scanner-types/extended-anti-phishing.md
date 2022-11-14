@@ -18,8 +18,6 @@ The database does contain some false positives which means some domains in that 
 
 ## Default: <mark style="color:red;">Disabled</mark>
 
-To configurate this scanner, follow these steps:
+By default, this scanner type is disabled and to enable this scanner type and use it's database then run punishment command below and choose any punishment type to enable it.
 
-> **Step 1:** /settings\
-> **Step 2:** _Select_ Server scanners\
-> **Step 3:** _Click the button_ **Set Extended AntiPhish API Punishment**
+> **/punishment set-punishment scanner:Extended Anti-phishing**
