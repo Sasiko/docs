@@ -24,6 +24,8 @@ The bot will use these 3 separate words and try match against the html content f
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Keywords | You can configure additional phrase such as "gold, red, yellow, pink, purple" which means the bot will then scan websites content for any of these phrases. |
 
+<figure><img src="../.gitbook/assets/bild.png" alt=""><figcaption></figcaption></figure>
+
 &#x20;
 
 {% hint style="info" %}
