@@ -27,7 +27,7 @@ The bot will use these 3 separate words and try match against the html content f
 &#x20;
 
 {% hint style="info" %}
-It is highly recommended you visit following pages [How-to Content Scanner](content-scan.md#how-content-scan-works) **and** [Usage/Tips](../commands/content-scan/usage-tips.md) on how to effectively use this datascraping feature.
+It is highly recommended you visit following pages [How-to Content Scanner](content-scan.md#how-content-scan-works) <mark style="color:red;">**and**</mark> [Usage/Tips](../commands/content-scan/usage-tips.md) on how to effectively use this datascraping feature.
 {% endhint %}
 
 
