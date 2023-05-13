@@ -7,6 +7,14 @@ description: >-
 
 # Usage/Tips
 
+How keywords works
+
+
+
+When you add multiple keywords from the screenshot, Munio will match them in the specified order when scraping websites. For instance, if you add the keywords "Banana, Apple, Orange," Munio will flag a link if the HTML content contains these words in that exact order. However, it will not flag the link if the words are in a different order, such as "Apple, Orange, Banana."
+
+If you want Munio to detect these three words without a specific order, you should add each keyword separately. In the "Add keywords" picture above, add only "banana" and click submit. Then, add a new keyword and repeat the process, adding only one keyword at a time. For example, add "orange," and so on.
+
 ## Multiple words per keyword
 
 | Keyword example                               |
@@ -48,4 +56,4 @@ Theres pros and cons by adding **single** words per keywords which will be liste
 
 <mark style="color:green;">+ Cover more variety of websites based on server owners preference, when configured correctly. More keywords you add, the less likely legitimate websites will get flagged.</mark> \ <mark style="color:green;">+ Can scan single keyword in any type of order. Example Keyword 3 can appear first while keyword 2 and 1 comes after and bot will still flag it.</mark>\
 <mark style="color:red;">- Higher risk for flagging legitimate websites, as websites tend to use the same words. Requires more effort to configurate with accurate keywords.</mark>  \
-<mark style="color:red;">- If you add fewer keywords, the chances are that the bot will flag more legitimate website because there's less specialization in your keyword configuration.</mark> \ <mark style="color:red;"></mark>
+<mark style="color:red;">- If you add fewer keywords, the chances are that the bot will flag more legitimate website because there's less specialization in your keyword configuration.</mark> \

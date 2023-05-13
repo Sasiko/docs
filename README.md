@@ -4,7 +4,7 @@ description: >-
   type of unknown website based on server owners preferences.
 ---
 
-# Phish Grabber
+# Welcome
 
 ## What does the bot do?
 
@@ -14,7 +14,7 @@ Server owners are also able to block any kind of websites using contentscan comm
 
 Content Scan/Youtube are **data scraping** features that flag any domains depending on the Html content inside the website and match against your blacklisted keywords. This means that you don't even need to know the exact URL to block bad links. The feature can be useful for example blocking specific youtube links that have video titles such as: "How to get free discord nitro", "get free steam games" "how to become rich with mining".
 
-### Bot prefix
+### Command prefix
 
 > /
 

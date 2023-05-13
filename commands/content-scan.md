@@ -5,28 +5,36 @@ description: >-
   content and match against keywords.
 ---
 
-# Content Scan
+# How-to Content Scanner
 
-| Commands                            | Explanation                                                                  |
-| ----------------------------------- | ---------------------------------------------------------------------------- |
-| /contentscan add-keywords keywords: | You can add multiple keywords, just ensure to add comma between each words.  |
+## How keywords works
 
-{% tabs %}
-{% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FptnlqXieqil9xh6J32eI%2Fcontent-scan-add.gif?alt=media&token=b8a74452-110a-4442-96fd-a8472408e497" %}
+![](<../.gitbook/assets/bild (1).png>)
 
+When you add multiple keywords from the screenshot, Munio will match them in the specified order when scraping websites. For instance, if you add several keywords, you will have to add a comma to separate individual keywords example "Banana, Apple, Orange," \
+\
+Munio will flag a link if the HTML content contains these words in that exact order. However, it will not flag the link if the words are in a different order, such as "Apple, Orange, Banana."
 
-{% endtab %}
-{% endtabs %}
+If you want Munio to detect these three words without a specific order, you should add each keyword separately. In the "Add keywords" picture above, add only "banana" and click submit. Then, add a new keyword and repeat the process, adding only one keyword at a time. For example, add "orange," and so on.
+
+| Steps                                                                                                                       | Explanation                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| <p>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Keyword List</p> | You can add multiple keywords, just ensure to add comma between each words.  |
+
+| Steps                                                                                                                                | Explanation                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| <p>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Patterns (Regex) List</p> | You can add javascript regex expression with this configuration.  |
 
 {% hint style="info" %}
 **Useful tip:** You can choose to have the bot scan for a single word consecutively if you add a comma between each keyword or you can add several words in one single keyword.&#x20;
 
 <mark style="background-color:purple;">Example usage:</mark>\
-/contentscan add-keywords keywords: i like eating apple, but i dislike orange, lemon taste great\
-_"i like eating apple"_ **This would count as 1 keyword.**\
-****\
-****If you add more words per keywords, the more specialized the bot will be when flagging against domains. This can be useful for matching specific sentences that some site uses, which usually yields a more surgicial target against a very specific website content.
+If a html content contains this sentence: \
+<mark style="background-color:blue;">i like eating apple, but i dislike orange, lemon taste great</mark>\
+and server owner add this keyword _"**i like eating apple**"_ \
+**This would count as 1 keyword and will flag the link.**\
+\
+If you add more words per keywords, the more specialized the bot will be when flagging against domains. This can be useful for matching specific sentences that some site uses, which usually yields a more surgicial target against a very specific website content.
 {% endhint %}
 
 {% hint style="info" %}
@@ -35,26 +43,3 @@ Content scan is disabled by default. To activate it, simply add keywords
 
 
 
-| Commands                   | Explanation                                                              |
-| -------------------------- | ------------------------------------------------------------------------ |
-| /contentscan list-keywords | This command will list all the keywords you have added for content scan. |
-
-{% tabs %}
-{% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FB5rljnwl4BtCdolgsszL%2Fcontentscan-view.gif?alt=media&token=04812f4c-66a4-469a-9f27-4242aba7d3d5" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-
-
-| Commands                               | Explanation                                                                |
-| -------------------------------------- | -------------------------------------------------------------------------- |
-| /contentscan remove-keywords keywords: | Delete your keywords. Has to be identical in order to remove the keywords. |
-
-{% tabs %}
-{% tab title="Command demonstration" %}
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FExRFSiGGE6uXpYA2tMPv%2Fuploads%2FLJmN97mImVgNBDoTaRWm%2Fcontent-scan-remove.gif?alt=media&token=6147dd17-dda3-45f0-8632-7664d132af94" %}
-{% endtab %}
-{% endtabs %}

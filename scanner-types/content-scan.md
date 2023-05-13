@@ -18,13 +18,19 @@ If executing this command with "orange, apple, banana", this will count as 1 phr
 
 The bot will use these 3 separate words and try match against the html content from a domain. It doesn't matter which order these words are posted. As long as the html content contains all of these 3 words, the bot will flag that domain and sanction the user accordingly.
 
-You can configure additional phrase such as "gold, red, yellow, pink, purple" which means the bot will then scan websites content for any of these phrases.
+## Configurational options
 
-Note that the bot will not flag the website if the content does not contain all words from the same phrase. Example if the html content contains these words only:
+| Regex    | Accept only ECMAscript/Javascript regex language. Visit this [site](https://regex101.com/) to test your regex expressions.                                  |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Keywords | You can configure additional phrase such as "gold, red, yellow, pink, purple" which means the bot will then scan websites content for any of these phrases. |
 
-Phrase 1 gold, red Phrase 2 apple
+&#x20;
 
-Then the bot will not flag the url. It must contain all words from the specific phrases to flag a domain.
+{% hint style="info" %}
+It is highly recommended you visit following pages [How-to Content Scanner](content-scan.md#how-content-scan-works) **and** [Usage/Tips](../commands/content-scan/usage-tips.md) on how to effectively use this datascraping feature.
+{% endhint %}
+
+
 
 ## Default: <mark style="color:red;">Disabled</mark>
 
