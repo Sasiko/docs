@@ -4,11 +4,13 @@ description: >-
   against server owners blacklisted keywords.
 ---
 
-# Content Scan
+# Content Scanner
 
 ## How Content scan works
 
-Content Scan flags any domains depending on the html content inside of the website and match against your blacklisted keywords. This means that you don't even need to know the exact url to block bad links. The feature can be useful for example blocking specific youtube links that have video titles such as: "How to get free discord nitro", "get free steam games" "how to become rich with mining".
+Introducing Content Scanner, a powerful feature of my bot! With Content Scanner enabled, every message containing a link in a Discord channel is instantly scanned. The bot extracts the HTML content from the linked website and compares it against your server owner's blacklisted keyword phrases.
+
+Content Scanner flags any domains based on their HTML content and matches them against your specified blacklisted keywords. This means you don't even need to know the exact URL to block undesirable links. For example, you can easily block specific YouTube links with video titles such as "How to get free Discord Nitro," "Get free Steam games," or "How to become rich with mining."
 
 ## Important to know
 
@@ -26,6 +28,8 @@ Then the bot will not flag the url. It must contain all words from the specific 
 
 ## Default: <mark style="color:red;">Disabled</mark>
 
-By default, content scan feature is disabled until server owners add any keywords using this command:
+To configurate this scanner, follow these steps:
 
-> **/contentscan add-keywords keywords:**
+> **Step 1:** /settings\
+> **Step 2:** _Select_ Server scanners\
+> **Step 3:** Content scanner
