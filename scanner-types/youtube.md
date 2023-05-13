@@ -1,11 +1,11 @@
-# Youtube
+# Youtube Scanner
 
 ## How Youtube works
 
 Youtube scanner type have 2 functions. 1 is for scanning content of youtube videos. 2 is for blocking specific youtube channel.
 
-1. Helps you block any youtube videos based on youtube video contents. This function works similar to "Content scan" but specialized in youtube videos only. If you add keywords then Phish Grabber will scan any youtube video in order to match against your keywords.&#x20;
-2. Block a specific youtube channel at your choosing. If any videos, newly uploaded or old, originates from the blacklisted channel, Phish Grabber will detect it and sanction the users accordingly, if enabled.&#x20;
+1. Helps you block any youtube videos based on youtube video contents. This function works similar to "Content scan" but specialized in youtube videos only. If you add keywords then Munio will scan any youtube video in order to match against your keywords.&#x20;
+2. Block a specific youtube channel at your choosing. If any videos, newly uploaded or old, originates from the blacklisted channel, Munio will detect it and sanction the users accordingly, if enabled.&#x20;
 
 ## Important to know
 
@@ -23,6 +23,8 @@ Then the bot will not flag the url. It must contain all words from the specific 
 
 ## Default: <mark style="color:red;">Disabled</mark>
 
-By default, youtube feature is disabled until server owners add any keywords using this command:
+To configurate this scanner, follow these steps:
 
-> **/youtube add-keywords keywords:**
+> **Step 1:** /settings\
+> **Step 2:** _Select_ Server scanners\
+> **Step 3:** Youtube scanner

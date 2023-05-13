@@ -10,18 +10,18 @@ mediafire.com/abcdef\
 github.com/something.exe\
 \
 \
-This is where URL List comes in, to cover these type of issues. The URL List are scanned and vetted by the Phish Grabbers staff and if they deem a specific URL to be malicious, it will be blacklisted. However, unlike the scanner type "Blacklist", URL list does NOT ban the actual domain. Instead it bans the specific URL string instead.&#x20;
+This is where URL List comes in, to cover these type of issues. The URL List are scanned and vetted by Munio's staff and if they deem a specific URL to be malicious, it will be blacklisted. However, unlike the scanner type "Blacklist", URL list does NOT ban the actual domain. Instead it bans the specific URL string instead.&#x20;
 
 If bot blacklist github.com/something.exe\
 then github.com will not be blacklisted.
 
 ## Default: <mark style="color:green;">Enabled</mark>
 
-Bot will by default delete message and timeout users from all servers if the user post a detected link from Phish grabber internal database.&#x20;
+Bot will by default delete message and timeout users from all servers if the user post a detected link from Munio internal database.&#x20;
 
 **Default punishment type**: Delete & Timeout
 
 \
-To enable the punishment simply use this command to disable it.
+To configurate this scanner, follow these steps:
 
 > **/punishment set-punishment scanner:URL List**

@@ -18,7 +18,7 @@ www.google.com
 
 google.com
 
-The reason is because www. is considered a subdomain and the nature of how phish grabber is extracting domains, it only look for specific domain and ignores subdomains.&#x20;
+The reason is because www. is considered a subdomain and the nature of how Munio is extracting domains, it only look for specific domain and ignores subdomains.&#x20;
 {% endhint %}
 
 
