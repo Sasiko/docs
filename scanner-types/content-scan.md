@@ -20,13 +20,9 @@ The bot will use these 3 separate words and try match against the html content f
 
 ## Configurational options
 
-| Regex    | Accept only ECMAscript/Javascript regex language. Visit this [site](https://regex101.com/) to test your regex expressions.                                  |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Keywords | You can configure additional phrase such as "gold, red, yellow, pink, purple" which means the bot will then scan websites content for any of these phrases. |
+<table data-header-hidden><thead><tr><th width="231"></th><th></th></tr></thead><tbody><tr><td>Regex</td><td>Accept only ECMAscript/Javascript regex language. Visit this <a href="https://regex101.com/">site</a> to test your regex expressions.</td></tr><tr><td>Keywords</td><td>You can configure additional phrase such as "gold, red, yellow, pink, purple" which means the bot will then scan websites content for any of these phrases.</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/bild.png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
 
 {% hint style="info" %}
 It is highly recommended you visit following pages [How-to Content Scanner](../commands/content-scan.md) <mark style="color:red;">**and**</mark> [Usage/Tips](../commands/content-scan/usage-tips.md) on how to effectively use this datascraping feature.

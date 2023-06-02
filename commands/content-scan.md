@@ -17,13 +17,9 @@ Munio will flag a link if the HTML content contains these words in that exact or
 
 If you want Munio to detect these three words without a specific order, you should add each keyword separately. In the "Add keywords" picture above, add only "banana" and click submit. Then, add a new keyword and repeat the process, adding only one keyword at a time. For example, add "orange," and so on.
 
-| Steps                                                                                                                       | Explanation                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <p>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Keyword List</p> | You can add multiple keywords, just ensure to add comma between each words.  |
+<table><thead><tr><th>Steps</th><th width="394">Explanation</th></tr></thead><tbody><tr><td>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Keyword List</td><td>You can add multiple keywords, just ensure to add comma between each words. </td></tr></tbody></table>
 
-| Steps                                                                                                                                | Explanation                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| <p>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Patterns (Regex) List</p> | You can add javascript regex expression with this configuration.  |
+<table><thead><tr><th width="353">Steps</th><th>Explanation</th></tr></thead><tbody><tr><td>Step 1:  /settings<br>Step 2: Select Local Scanners<br>Step 3: Select Content scanner<br>Step 4: Manage Patterns (Regex) List</td><td>You can add javascript regex expression with this configuration. </td></tr></tbody></table>
 
 {% hint style="info" %}
 **Useful tip:** You can choose to have the bot scan for a single word consecutively if you add a comma between each keyword or you can add several words in one single keyword.&#x20;
